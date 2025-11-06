@@ -5,6 +5,6 @@ accounts:
   message: "This is the local APIs that relates to accounts microservice"
   contactDetails:
     name: "Wong Yue Xin - Developer"
-    email: "wongyuexin@gmail.com"
+    email: "{cipher}d6f2956e2fe5093d485441badecbf92ef5036449bd495e95a19c02928999f4421e1d80bd9744209e342f00f8a09d17a3"
   callSupport:
     - (+65) 123-24345
