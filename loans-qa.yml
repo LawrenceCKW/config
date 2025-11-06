@@ -5,6 +5,6 @@ loans:
   message: "This is the QA APIs that relates to loans microservice"
   contactDetails:
     name: "Lawrence Chan - QA Lead"
-    email: "chan@gmail.com"
+    email: "{cipher}73a8b259fd7b002bebff8d72df89623d616ce50acf41601ed1d96ed305e057c5"
   callSupport:
     - (+65) 321-24345
