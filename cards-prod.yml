@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "This is the production APIs that relates to cards webhook microservice"
+  message: "Production APIs that relates to cards microservice"
   contactDetails:
     name: "Andrew - Production Lead"
     email: "{cipher}0d3359382c5c9c9925acb826e888c223a3576676b1f432c246ff7c5e58ec792c6f8e9317c50afa304c39eb2010719594"
